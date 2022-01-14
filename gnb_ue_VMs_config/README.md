@@ -1,0 +1,2 @@
+# gnb_ue_VMs_config
+A rede usada para englobar ambas as VMs é a 10.0.2.0/24. Possívelmente será necessário alterar os IPs da configuração ou da VM, de forma a permitir haver comunicação entre ambas as VMs. Contudo caso seje necessário alterar alguma coisa, o principal seria alterar os IPs de ambas pastas para o IP que seria atribuido à VM do GNB. Para isso seria necessário alterar todos os IPs 10.0.2.4 (em ambas as pastas) para o IP correspondenete à VM do GNB.
