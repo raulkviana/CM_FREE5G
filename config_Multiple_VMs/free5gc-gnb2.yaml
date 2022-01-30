@@ -16,7 +16,7 @@ amfConfigs:
 
 # List of supported S-NSSAIs by this gNB
 slices:
-  - sst: 0x1
+  - sst: 0x2
     sd: 0x112233
   - sst: 0x1
     sd: 0x010203
